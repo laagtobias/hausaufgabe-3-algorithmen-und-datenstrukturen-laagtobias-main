@@ -1,7 +1,7 @@
 package htw.berlin.wi.prog2.ui;
 
+import htw.berlin.wi.prog2.domain.BowlBuilder;
 import htw.berlin.wi.prog2.domain.DynamicallyComputedBowl;
-import htw.berlin.wi.prog2.service.BowlBuilder;
 import htw.berlin.wi.prog2.service.parsing.ExtendableInputParser;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

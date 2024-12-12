@@ -1,9 +1,4 @@
-package htw.berlin.wi.prog2.service;
-
-import htw.berlin.wi.prog2.domain.DynamicallyComputedBowl;
-import htw.berlin.wi.prog2.domain.Ingredient;
-import htw.berlin.wi.prog2.domain.PrecomputedBowl;
-import htw.berlin.wi.prog2.domain.Bowl;
+package htw.berlin.wi.prog2.domain;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;

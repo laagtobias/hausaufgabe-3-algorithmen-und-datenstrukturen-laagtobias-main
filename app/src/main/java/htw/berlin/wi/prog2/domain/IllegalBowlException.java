@@ -1,4 +1,4 @@
-package htw.berlin.wi.prog2.service;
+package htw.berlin.wi.prog2.domain;
 
 public class IllegalBowlException extends RuntimeException {
     public IllegalBowlException(String message) {

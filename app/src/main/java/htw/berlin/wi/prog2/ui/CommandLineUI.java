@@ -3,9 +3,9 @@ package htw.berlin.wi.prog2.ui;
 import htw.berlin.wi.prog2.data.Menu;
 import htw.berlin.wi.prog2.data.MenuUtils;
 import htw.berlin.wi.prog2.domain.Bowl;
+import htw.berlin.wi.prog2.domain.BowlBuilder;
 import htw.berlin.wi.prog2.domain.Ingredient;
 import htw.berlin.wi.prog2.service.parsing.ExtendableInputParser;
-import htw.berlin.wi.prog2.service.BowlBuilder;
 
 import java.math.BigDecimal;
 import java.util.*;

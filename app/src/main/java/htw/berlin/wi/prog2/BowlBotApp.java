@@ -3,9 +3,9 @@
  */
 package htw.berlin.wi.prog2;
 
+import htw.berlin.wi.prog2.domain.BowlBuilder;
 import htw.berlin.wi.prog2.service.parsing.DummyInputParser;
 import htw.berlin.wi.prog2.service.parsing.ExtendableInputParser;
-import htw.berlin.wi.prog2.service.BowlBuilder;
 import htw.berlin.wi.prog2.ui.CommandLineUI;
 import htw.berlin.wi.prog2.ui.UserInputWrapper;
 

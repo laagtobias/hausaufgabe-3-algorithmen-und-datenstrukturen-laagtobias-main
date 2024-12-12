@@ -1,6 +1,8 @@
-package htw.berlin.wi.prog2.service;
+package htw.berlin.wi.prog2.domain;
 
 import htw.berlin.wi.prog2.domain.Bowl;
+import htw.berlin.wi.prog2.domain.BowlBuilder;
+import htw.berlin.wi.prog2.domain.IllegalBowlException;
 import htw.berlin.wi.prog2.domain.Ingredient;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
